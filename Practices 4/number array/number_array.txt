@@ -1,0 +1,10 @@
+1.number is 5
+2.number is 2
+3.number is 5
+4.number is 5
+5.number is 2
+6.number is 5
+7.number is 4
+8.number is 9
+9.number is 78
+10.number is 5
